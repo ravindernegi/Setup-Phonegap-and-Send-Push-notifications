@@ -1,0 +1,7 @@
+
+Cordova Push Notifications Plugin 
+https://github.com/phonegap-build/PushPlugin
+
+http://www.pubnub.com/blog/sending-android-push-notifications-via-gcm-javascript-using-phonegap/
+
+https://gist.github.com/prime31/5675017
