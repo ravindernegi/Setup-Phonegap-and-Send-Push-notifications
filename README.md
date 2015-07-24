@@ -1,4 +1,4 @@
-# push-notification-and--phonegap-setup-document
+# Setup Phonegap and Send Push notifications
 
 This is documents and code for these things: - 
 
